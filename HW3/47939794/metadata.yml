@@ -1,0 +1,12 @@
+---
+:id: 47939794
+:submitters:
+- :name: Kaiyin
+  :email: kc25295n@pace.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-07 16:17:03.446019000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-07 09:17:03.446019000 Z
+:status: processed
+:score: 45.0
