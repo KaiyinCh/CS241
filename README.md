@@ -1,1 +1,1 @@
-# CS241
+# CS241 - Data Structure and Algorithms
